@@ -1,0 +1,15 @@
+1. 10개의 값 중 최대값, 최소값, 중간값을 구해서 출력
+
+2.  문자를 유니코드 변환 프로그램 작성
+
+3. 중첩 for문  - 추가된 이미지 참조
+
+4. enum 파일을 활용한 출력
+   Season.java
+    public enum Season
+   {
+     SPRING,SUMMER,AUTUMN,WINTER
+  }
+
+5. 10->1까지 출력하는 while문
+
